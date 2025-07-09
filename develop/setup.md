@@ -2,9 +2,7 @@
 
 Step 1: **Add ProtectorAPI into your project**
 
-**Latest Version:** [](https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20)
-
-<figure><img src="https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20" alt=""><figcaption></figcaption></figure>
+**Latest Version:** [11](https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20)
 
 Maven
 
