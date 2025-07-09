@@ -6,11 +6,8 @@
 ## develop
 
 * [Setup](develop/setup.md)
-
-***
-
-* [Simple usage](simple-usage.md)
-* [Protection Modules](protection-modules.md)
-* [Protection Range Info](protection-range-info.md)
-* [Block Protection Modules](block-protection-modules.md)
-* [Differences between Protection Module & Block Protection Module](differences-between-protection-module-and-block-protection-module.md)
+* [Simple usage](develop/simple-usage.md)
+* [Protection Modules](develop/protection-modules.md)
+* [Protection Range Info](develop/protection-range-info.md)
+* [Block Protection Modules](develop/block-protection-modules.md)
+* [Differences between Protection Module & Block Protection Module](develop/differences-between-protection-module-and-block-protection-module.md)
