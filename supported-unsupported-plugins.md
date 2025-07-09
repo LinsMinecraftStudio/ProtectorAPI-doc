@@ -12,10 +12,11 @@
 8. Bolt
 9. Chest Protection
 10. Lands
-11. LWC (LWCX)
-12. QuickShop (Reremake and Hikari fork)
-13. ShopChest
-14. Towny
+11. LockettePro
+12. LWC (LWCX)
+13. QuickShop (Reremake and Hikari fork)
+14. ShopChest
+15. Towny
 
 ## Unsupported Plugins
 
@@ -25,4 +26,4 @@
 ## Planning Support Plugins
 
 1. ChestShop
-2. ...
+2. HuskClaims
