@@ -1,6 +1,6 @@
 # Simple usage
 
-### Check whether a player can place
+## Check whether a player can place
 
 Only check a player can place
 
@@ -19,7 +19,7 @@ Block block = ...;
 boolean allow = ProtectorAPI.allowPlace(player, block);
 ```
 
-### Check whether a player can break
+## Check whether a player can break
 
 Only check a player can break
 
@@ -38,9 +38,9 @@ Block block = ...;
 boolean allow = ProtectorAPI.allowBreak(player, block);
 ```
 
-### Check whether a player can interact
+## Check whether a player can interact
 
-**NOTE: RedProtect didn't have a more general interaction flag, so it uses** [**"redstone"**](#user-content-fn-1)[^1] **flag to check instead.**
+**NOTE: RedProtect didn't have a more general interaction flag, so we uses** [**"redstone"**](#user-content-fn-1)[^1] **flag to check instead.**
 
 Only check a player can interact
 
