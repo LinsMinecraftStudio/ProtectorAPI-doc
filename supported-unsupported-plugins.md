@@ -12,7 +12,7 @@
 8. Bolt
 9. Chest Protection
 10. Lands
-11. LockettePro
+11. LockettePro (since v1.0.1)
 12. LWC (LWCX)
 13. QuickShop (Reremake and Hikari fork)
 14. ShopChest
