@@ -6,8 +6,9 @@ A protection module corresponds to a fully functional plugin that can serve as t
 
 ### Get by block location
 
-<pre class="language-java"><code class="lang-java"><strong>IProtectionModule module = ProtectorAPI.findModule(location);
-</strong></code></pre>
+```java
+IProtectionModule module = ProtectorAPI.findModule(location);
+```
 
 ## Block Protection Module
 
