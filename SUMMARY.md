@@ -1,7 +1,9 @@
 # Table of contents
 
+## Start
+
 * [Intro](README.md)
-* [Supported/Unsupported Plugins](supported-unsupported-plugins.md)
+* [Supported/Unsupported Plugins](start/supported-unsupported-plugins.md)
 
 ## develop
 
@@ -11,7 +13,4 @@
 * [Protection Range Info](develop/protection-range-info.md)
 * [Block Protection Modules](develop/block-protection-modules.md)
 * [Differences between Protection Module & Block Protection Module](develop/differences-between-protection-module-and-block-protection-module.md)
-
-***
-
-* [Create your own protection module](create-your-own-protection-module.md)
+* [Create your own protection module](develop/create-your-own-protection-module.md)

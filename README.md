@@ -18,7 +18,7 @@ Intended to provide a more standardized universal API.
 
 4.Start your server
 
-**Note:&#x20;**<mark style="color:red;">**Please See**</mark> [**Supported/Unsupported Plugins**](supported-unsupported-plugins.md) <mark style="color:red;">**for plugin compatibility!**</mark>
+**Note:&#x20;**<mark style="color:red;">**Please See**</mark> [**Supported/Unsupported Plugins**](start/supported-unsupported-plugins.md) <mark style="color:red;">**for plugin compatibility!**</mark>
 
 #### Developers
 
