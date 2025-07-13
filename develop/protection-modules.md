@@ -11,6 +11,22 @@ What can it do:
 3. Get all protection ranges by a player (feature not completed)
 4. Get/Set global flags
 
+## Get protection module
+
+There're 2 ways of getting the protection module:
+
+No.1:
+
+```java
+IProtectionModule module = ProtectorAPI.findModule(location);
+```
+
+No.2:
+
+```java
+IProtectionModule module = ProtectorAPI.getModuleByPluginName(pluginName);
+```
+
 ## Get a protection range
 
 See [Protection Range Info](protection-range-info.md) for details.&#x20;
@@ -36,7 +52,8 @@ boolean b = module.isInProtectionRange(p);
 
 ```java
 OfflinePlayer p = ...;
-//THE API NOT COMPLETED
+IProtectionModule module = ...;
+List<? extends ProtectionRangeInfo> range = module.getProtectionRangeInfos(p);
 ```
 
 ## Get/Set global flags

@@ -10,14 +10,15 @@
 6. BentoBox
 7. BlockLocker
 8. Bolt
-9. Chest Protection
-10. Lands
-11. LockettePro (since v1.0.1)
-12. LWC (LWCX)
-13. QuickShop-Reremake
-14. QuickShop-Hikari
-15. ShopChest
-16. Towny
+9. ChestProtection
+10. ChestShop (since v1.0.2)
+11. Lands
+12. LockettePro (since v1.0.1)
+13. LWC (LWCX)
+14. QuickShop-Reremake
+15. QuickShop-Hikari
+16. ShopChest
+17. Towny
 
 ## Unsupported Plugins
 
@@ -26,5 +27,6 @@
 
 ## Planning Support Plugins
 
-1. ChestShop
-2. HuskClaims
+1. HuskClaims
+2. FunnyGuilds
+3. ...
