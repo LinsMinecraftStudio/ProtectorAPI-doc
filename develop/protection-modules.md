@@ -13,7 +13,7 @@ What can it do:
 
 ## Get protection module
 
-There're 2 ways of getting the protection module:
+There're 3 ways of getting the protection module:
 
 No.1:
 
@@ -21,10 +21,16 @@ No.1:
 IProtectionModule module = ProtectorAPI.findModule(location);
 ```
 
-No.2:
+No.2 (since v1.0.2):
 
 ```java
 IProtectionModule module = ProtectorAPI.getModuleByPluginName(pluginName);
+```
+
+No.3 (since v1.0.3, may not you want):
+
+```java
+IProtectionModule module = ProtectorAPI.getFirstAvailableModule();
 ```
 
 ## Get a protection range
@@ -58,7 +64,7 @@ List<? extends ProtectionRangeInfo> range = module.getProtectionRangeInfos(p);
 
 ## Get/Set global flags
 
-**NOTE: Some plugins don't support global flags, so when executing the method, it will throw an UnsupportedOperationException.**&#x20;
+**NOTE: Some plugins don't support global flags, so when executing the method, it will throw an `UnsupportedOperationException`.**&#x20;
 
 ```java
 boolean supported = module.isSupportGlobalFlags();

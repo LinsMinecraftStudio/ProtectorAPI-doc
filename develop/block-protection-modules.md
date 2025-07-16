@@ -4,9 +4,7 @@
 
 A block protection module can only check the blocks' protection.
 
-What can it do:
-
-1. Check a player can break/place/interact the block
+It can check whether a player can break/place/interact the block
 
 ## Check a player can break/place/interact the block
 

@@ -59,4 +59,11 @@ Block block = ...;
 boolean allow = ProtectorAPI.allowInteract(player, block);
 ```
 
+## Check a event was fired by Protection Plugin is fake
+
+```java
+Event event = ...;
+boolean fake = ProtectorAPI.isEventFake(event);
+```
+
 [^1]: The "redstone" flag in RedProtect allows other players to interact with redstone systems. _Lever and buttons have your own flag_
