@@ -2,7 +2,7 @@
 
 ## Description
 
-Since v1.0.4, you now can register your flag.
+Since v1.0.5, you now can register your flag.
 
 ## How-To
 
@@ -31,6 +31,6 @@ public record CustomFlag(@NotNull String namespace, @NotNull String id, boolean 
 After creating the custom flag object, you can register it.
 
 ```java
-IProtectionModule module = ...;
-module.registerFlag(flag);
+CustomFlag flag = ...;
+ProtectorAPI.registerFlag(flag);
 ```
