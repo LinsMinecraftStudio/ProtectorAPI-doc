@@ -25,10 +25,9 @@
 
 ## Unsupported Plugins
 
-1. GriefPreventions: The features is very less, no worth to support
-2. ...
+1. ...
 
 ## Planning Support Plugins
 
 1. HuskTowns
-2. ...
+2. GriefPreventions
