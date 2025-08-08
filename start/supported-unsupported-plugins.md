@@ -15,13 +15,15 @@
 11. ChestShop (since v1.0.2)
 12. FactionsUUID (since v1.0.3)
 13. FunnyGuilds (since v1.0.3)
-14. Lands
-15. LockettePro (since v1.0.1)
-16. LWC (LWCX)
-17. QuickShop-Reremake
-18. QuickShop-Hikari
-19. ShopChest
-20. Towny
+14. GriefPrevention (since v1.0.6)
+15. HuskTowns (since v1.0.6)
+16. Lands
+17. LockettePro (since v1.0.1)
+18. LWC (LWCX)
+19. QuickShop-Reremake
+20. QuickShop-Hikari
+21. ShopChest
+22. Towny
 
 ## Unsupported Plugins
 
@@ -29,5 +31,4 @@
 
 ## Planning Support Plugins
 
-1. HuskTowns
-2. GriefPreventions
+1. ...

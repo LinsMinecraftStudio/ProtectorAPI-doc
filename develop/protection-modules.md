@@ -13,7 +13,7 @@ What can it do:
 
 ## Get protection module
 
-There're 3 ways of getting the protection module:
+There're 4 ways of getting the protection module:
 
 No.1:
 
@@ -31,6 +31,12 @@ No.3 (since v1.0.3, may not you want):
 
 ```java
 IProtectionModule module = ProtectorAPI.getFirstAvailableModule();
+```
+
+No.4 (since v1.0.5):
+
+```java
+Collection<IProtectionModule> modules = ProtectorAPI.getAllAvailableProtectionModules();
 ```
 
 ## Get a protection range
