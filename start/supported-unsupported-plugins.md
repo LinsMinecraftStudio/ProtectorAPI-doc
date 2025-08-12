@@ -20,14 +20,16 @@
 16. Lands
 17. LockettePro (since v1.0.1)
 18. LWC (LWCX)
-19. QuickShop-Reremake
-20. QuickShop-Hikari
-21. ShopChest
-22. Towny
+19. NoBuildPlus (since v1.0.7)
+20. QuickShop-Reremake
+21. QuickShop-Hikari
+22. ShopChest
+23. Towny
 
 ## Unsupported Plugins
 
-1. ...
+1. CrashClaims — Dead plugin
+2. ...
 
 ## Planning Support Plugins
 
