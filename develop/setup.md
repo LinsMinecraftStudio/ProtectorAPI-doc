@@ -2,13 +2,11 @@
 
 Step 1: **Add ProtectorAPI into your project**
 
-**Latest Version:** 1.0.9
+**Latest Version:**&#x20;
 
-**Javadoc:** [https://javadoc.io/doc/io.github.lijinhong11/protectorapi-api/latest/index.html](https://javadoc.io/doc/io.github.lijinhong11/protectorapi-api/latest/index.html) (only v1.0.7)
+![](https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20)
 
-### **Since v1.0.9, the package is now moved to GitHub packages.**
-
-### **To use it, please see** [**https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-apache-maven-registry#authenticating-to-github-packages**](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-apache-maven-registry#authenticating-to-github-packages)
+**Javadoc:** [https://javadoc.io/doc/io.github.lijinhong11/protectorapi-api/latest/index.html](https://javadoc.io/doc/io.github.lijinhong11/protectorapi-api/latest/index.html)
 
 Maven
 
@@ -16,7 +14,7 @@ Maven
 <dependency>
   <groupId>io.github.lijinhong11</groupId>
   <artifactId>protectorapi-api</artifactId>
-  <version></version>
+  <version>VERSION</version>
   <scope>provided</scope>
 </dependency>
 ```
