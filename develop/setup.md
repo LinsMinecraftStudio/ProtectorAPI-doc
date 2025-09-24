@@ -2,9 +2,7 @@
 
 Step 1: **Add ProtectorAPI into your project**
 
-**Latest Version:**&#x20;
-
-![](https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20)
+**Latest Version:** ![](https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20)
 
 **Javadoc:** [https://javadoc.io/doc/io.github.lijinhong11/protectorapi-api/latest/index.html](https://javadoc.io/doc/io.github.lijinhong11/protectorapi-api/latest/index.html)
 
@@ -19,13 +17,13 @@ Maven
 </dependency>
 ```
 
-Gradle Groovy:
+Gradle (Groovy DSL):
 
 ```gradle
 implementation 'io.github.lijinhong11:protectorapi-api:VERSION'
 ```
 
-Gradle Kotlin:
+Gradle (Kotlin DSL):
 
 ```kts
 implementation("io.github.lijinhong11:protectorapi-api:VERSION")
