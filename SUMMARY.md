@@ -2,7 +2,7 @@
 
 ## Start
 
-* [介绍](README.md)
+* [Intro](README.md)
 * [Supported/Unsupported Plugins](start/supported-unsupported-plugins.md)
 
 ## develop
