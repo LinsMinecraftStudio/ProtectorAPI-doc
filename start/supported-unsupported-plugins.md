@@ -13,24 +13,21 @@
 9. Bolt
 10. ChestProtection
 11. ChestShop (since v1.0.2)
-12. FactionsUUID (since v1.0.3)
-13. FunnyGuilds (since v1.0.3)
-14. GriefPrevention (since v1.0.6)
-15. HuskTowns (since v1.0.6)
-16. Lands
-17. LockettePro (since v1.0.1)
-18. LWC (LWCX)
-19. NoBuildPlus (since v1.0.7)
-20. QuickShop-Reremake
-21. QuickShop-Hikari
-22. ShopChest
-23. Towny
+12. ExcellentClaims (since v1.1.0)
+13. FactionsUUID (since v1.0.3)
+14. FunnyGuilds (since v1.0.3)
+15. GriefPrevention (since v1.0.6)
+16. HuskTowns (since v1.0.6)
+17. Lands
+18. LockettePro (since v1.0.1)
+19. LWC (LWCX)
+20. NoBuildPlus (since v1.0.7)
+21. QuickShop-Reremake
+22. QuickShop-Hikari
+23. ShopChest
+24. Towny
 
 ## Unsupported Plugins
 
 1. CrashClaims — Dead plugin
 2. ...
-
-## Planning Support Plugins
-
-1. ...
