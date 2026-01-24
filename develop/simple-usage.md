@@ -40,7 +40,7 @@ boolean allow = ProtectorAPI.allowBreak(player, block);
 
 ## Check whether a player can interact
 
-**NOTE: RedProtect didn't have a more general interaction flag, so we uses** [**"redstone"**](#user-content-fn-1)[^1] **flag to check instead.**
+**NOTE: RedProtect didn't have a more general interaction flag, so we uses** [**"redstone"**](#user-content-fn-1)[^1] **flag to check instead. (Although this is not very accurate)**
 
 Only check a player can interact
 
@@ -66,4 +66,4 @@ Event event = ...;
 boolean fake = ProtectorAPI.isEventFake(event);
 ```
 
-[^1]: The "redstone" flag in RedProtect allows other players to interact with redstone systems. _Lever and buttons have your own flag_
+[^1]: The "redstone" flag in RedProtect allows other players to interact with redstone systems. _Levers and buttons have their own flags_
