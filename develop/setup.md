@@ -4,9 +4,9 @@ metaLinks:
     - https://app.gitbook.com/s/vLjgle6jl104vuDDoA0T/develop/setup
 ---
 
-# Setup
+# 设置
 
-Step 1: **Add ProtectorAPI into your project**
+第一步: **Add ProtectorAPI into your project**
 
 **Latest Version:** ![](https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20)
 

@@ -19,7 +19,7 @@ ProtectorAPI 是一个对接了几乎所有保护插件的API的API。
 3. 将下载好的jar放入服务器plugins文件夹
 4. 开服
 
-**注意:&#x20;**<mark style="color:red;">**请参阅**</mark> [**Supported/Unsupported Plugins**](start/supported-unsupported-plugins.md) <mark style="color:red;">**以确保是否兼容你的插件!**</mark>
+**注意:&#x20;**<mark style="color:red;">**请参阅**</mark> [supported-unsupported-plugins.md](start/supported-unsupported-plugins.md "mention") <mark style="color:red;">**以确保是否兼容你的插件!**</mark>
 
 #### 对于开发者
 

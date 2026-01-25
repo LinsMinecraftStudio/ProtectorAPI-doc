@@ -1,13 +1,13 @@
 # Table of contents
 
-## Start
+## 开始 <a href="#start" id="start"></a>
 
 * [介绍](README.md)
-* [Supported/Unsupported Plugins](start/supported-unsupported-plugins.md)
+* [插件兼容性](start/supported-unsupported-plugins.md)
 
-## develop
+## 开发 <a href="#develop" id="develop"></a>
 
-* [Setup](develop/setup.md)
+* [设置](develop/setup.md)
 * [Simple usage](develop/simple-usage.md)
 * [Protection Modules](develop/protection-modules.md)
 * [Protection Range Info](develop/protection-range-info.md)
