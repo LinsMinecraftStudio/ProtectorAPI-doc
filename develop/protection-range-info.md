@@ -21,6 +21,6 @@ if (module == null) {
     return;
 }
 
-ProtectionRangeInfo range = module.getProtectionRangeInfo(location);
+IProtectionRangeInfo range = module.getProtectionRangeInfo(location);
 ```
 
