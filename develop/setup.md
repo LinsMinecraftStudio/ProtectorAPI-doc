@@ -6,9 +6,9 @@ metaLinks:
 
 # 设置
 
-第一步: **Add ProtectorAPI into your project**
+第一步: **将ProtectorAPI添加进你的项目**
 
-**Latest Version:** ![](https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20)
+**最新版本:** ![](https://img.shields.io/maven-central/v/io.github.lijinhong11/protectorapi-api?label=%20)
 
 **Javadoc:** [https://javadoc.io/doc/io.github.lijinhong11/protectorapi-api/latest/index.html](https://javadoc.io/doc/io.github.lijinhong11/protectorapi-api/latest/index.html)
 
@@ -35,6 +35,6 @@ Gradle (Kotlin DSL):
 implementation("io.github.lijinhong11:protectorapi-api:VERSION")
 ```
 
-**NOTE:** <mark style="color:red;">**Whatever you want, do not shade it into your artifact!**</mark>
+**注意:** <mark style="color:red;">**无论如何，请不要将其打包进你的插件里！**</mark>
 
-Step 2: Enjoy :)
+第二步: 放心使用 :)

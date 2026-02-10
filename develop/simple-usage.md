@@ -4,11 +4,11 @@ metaLinks:
     - https://app.gitbook.com/s/vLjgle6jl104vuDDoA0T/develop/simple-usage
 ---
 
-# Simple usage
+# 简单用法
 
-## Check whether a player can place
+## 检查玩家是否可以放置方块
 
-Only check a player can place
+只检查玩家是否可以放置方块（不论最终放置的方块在哪）
 
 ```java
 Player player = ...;
@@ -16,7 +16,7 @@ Player player = ...;
 boolean allow = ProtectorAPI.allowPlace(player);
 ```
 
-If you need to whether a player can place a block at a location (safer than previous method):
+如果你要检查玩家是否可以放置方块在某个位置（比上个方法更安全）：
 
 ```java
 Player player = ...;
@@ -25,9 +25,9 @@ Block block = ...;
 boolean allow = ProtectorAPI.allowPlace(player, block);
 ```
 
-## Check whether a player can break
+## 检查玩家是否可以破坏方块
 
-Only check a player can break
+只检查玩家是否可以破坏方块（不论最终放置的方块在哪）
 
 ```java
 Player player = ...;
@@ -35,7 +35,7 @@ Player player = ...;
 boolean allow = ProtectorAPI.allowBreak(player);
 ```
 
-If you need to whether a player can break a block at a location (safer than previous method):
+如果你要检查玩家是否可以破坏某个位置的方块（比上个方法更安全）：
 
 ```java
 Player player = ...;
@@ -44,11 +44,11 @@ Block block = ...;
 boolean allow = ProtectorAPI.allowBreak(player, block);
 ```
 
-## Check whether a player can interact
+## 检查玩家是否可以交互
 
-**NOTE: RedProtect didn't have a more general interaction flag, so we uses** [**"redstone"**](#user-content-fn-1)[^1] **flag to check instead.**
+**注意: RedProtect 没有通用的交互标志，所以使用**  [**"redstone"**](#user-content-fn-1)[^1] **标志进行检查。**
 
-Only check a player can interact
+只检查玩家是否可以交互方块（不论最终放置的方块在哪）
 
 ```java
 Player player = ...;
@@ -56,7 +56,7 @@ Player player = ...;
 boolean allow = ProtectorAPI.allowInteract(player);
 ```
 
-If you need to whether a player can interact block at a location (safer than previous method):
+如果你要检查玩家是否可以与某个位置的方块进行交互（比上个方法更安全）：
 
 ```java
 Player player = ...;
@@ -65,11 +65,11 @@ Block block = ...;
 boolean allow = ProtectorAPI.allowInteract(player, block);
 ```
 
-## Check a event was fired by Protection Plugin is fake
+## 检查由保护插件发出的事件是否为假事件
 
 ```java
 Event event = ...;
 boolean fake = ProtectorAPI.isEventFake(event);
 ```
 
-[^1]: The "redstone" flag in RedProtect allows other players to interact with redstone systems. _Lever and buttons have your own flag_
+[^1]: RedProtect中的redstone标志是允许/禁止玩家与红石系统交互。_按钮和拉杆都有他们自己的标志。_

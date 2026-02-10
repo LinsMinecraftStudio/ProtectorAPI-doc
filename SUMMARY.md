@@ -8,8 +8,8 @@
 ## 开发 <a href="#develop" id="develop"></a>
 
 * [设置](develop/setup.md)
-* [Simple usage](develop/simple-usage.md)
-* [Protection Modules](develop/protection-modules.md)
+* [简单用法](develop/simple-usage.md)
+* [保护模块](develop/protection-modules.md)
 * [Protection Range Info](develop/protection-range-info.md)
 * [Block Protection Modules](develop/block-protection-modules.md)
 * [Differences between Protection Module & Block Protection Module](develop/differences-between-protection-module-and-block-protection-module.md)

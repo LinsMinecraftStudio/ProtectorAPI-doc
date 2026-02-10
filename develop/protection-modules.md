@@ -4,50 +4,50 @@ metaLinks:
     - https://app.gitbook.com/s/vLjgle6jl104vuDDoA0T/develop/protection-modules
 ---
 
-# Protection Modules
+# 保护模块
 
-## **Description**
+## **描述**
 
-**A protection module can be used to do many things, depends on the corresponding plugin.**
+**一个保护模块可以做很多事，但是取决于对应的保护插件。**
 
-What can it do:
+它能做什么：
 
-1. Get a protection range by player/location
-2. Check a player/location is in any protection range
-3. Get all protection ranges by a player (feature not completed)
-4. Get/Set global flags
+1. 通过 玩家/位置 获取一个保护范围
+2. 检查 玩家/位置 是否在一个保护范围内
+3. 获取玩家名下所有的保护范围 (功能并不完全)
+4. 获取/设置 全局标志
 
-## Get protection module
+## 获取保护模块
 
-There're 4 ways of getting the protection module:
+这里有4种方式：
 
-No.1:
+第一：
 
 ```java
 IProtectionModule module = ProtectorAPI.findModule(location);
 ```
 
-No.2 (since v1.0.2):
+第二 (自 v1.0.2):
 
 ```java
 IProtectionModule module = ProtectorAPI.getModuleByPluginName(pluginName);
 ```
 
-No.3 (since v1.0.3, may not you want):
+第三 (自 v1.0.3, 可能不是你想要的):
 
 ```java
 IProtectionModule module = ProtectorAPI.getFirstAvailableModule();
 ```
 
-No.4 (since v1.0.5):
+第四 (自 v1.0.5):
 
 ```java
 Collection<IProtectionModule> modules = ProtectorAPI.getAllAvailableProtectionModules();
 ```
 
-## Get a protection range
+## 获取一个保护范围
 
-See [Protection Range Info](protection-range-info.md) for details.&#x20;
+参阅 [Protection Range Info](protection-range-info.md)&#x20;
 
 ## Check a player/location is in any protection range
 
