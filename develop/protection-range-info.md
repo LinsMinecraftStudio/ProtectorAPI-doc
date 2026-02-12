@@ -5,18 +5,18 @@ metaLinks:
       https://app.gitbook.com/s/vLjgle6jl104vuDDoA0T/develop/protection-range-info
 ---
 
-# Protection Range Info
+# 保护范围信息
 
-## Description
+## 描述
 
-**A ProtectionRangeInfo is the information of the protection range.**
+**一个保护范围信息就是该保护范围的信息**
 
-**What can it do?**
+**它能做什么？**
 
-1. **get flag state/value**
-2. **get admins**
-3. **get members**
-4. **get the owner**
+1. **获取标志的值**
+2. **获取管理**
+3. **获取成员**
+4. **获取所有者**
 
 ## Get it by location
 

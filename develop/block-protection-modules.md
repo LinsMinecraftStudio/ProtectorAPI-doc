@@ -5,9 +5,9 @@ metaLinks:
       https://app.gitbook.com/s/vLjgle6jl104vuDDoA0T/develop/block-protection-modules
 ---
 
-# Block Protection Modules
+# 方块保护模块
 
-## Description
+## 描述
 
 A block protection module can only check the blocks' protection.
 

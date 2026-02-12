@@ -49,7 +49,7 @@ Collection<IProtectionModule> modules = ProtectorAPI.getAllAvailableProtectionMo
 
 参阅 [Protection Range Info](protection-range-info.md)&#x20;
 
-## Check a player/location is in any protection range
+## 检查 玩家/位置 是否在一个保护范围内
 
 ```java
 Location location = ...;
@@ -66,7 +66,7 @@ boolean b = module.isInProtectionRange(location);
 boolean b = module.isInProtectionRange(p);
 ```
 
-## Get all protection ranges by a player
+## 获取玩家名下所有的保护范围&#x20;
 
 ```java
 OfflinePlayer p = ...;
@@ -74,9 +74,9 @@ IProtectionModule module = ...;
 List<? extends ProtectionRangeInfo> range = module.getProtectionRangeInfos(p);
 ```
 
-## Get/Set global flags
+## 获取/设置 全局标志
 
-**NOTE: Some plugins don't support global flags, so when executing the method, it will throw an `UnsupportedOperationException`.**&#x20;
+**注意: 有些插件不支持获取/设置全局标志，所以执行时会抛出 `UnsupportedOperationException` 。**
 
 ```java
 boolean supported = module.isSupportGlobalFlags();
