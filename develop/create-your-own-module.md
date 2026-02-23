@@ -12,8 +12,6 @@ If your module can be used for registering flags, the class must implement `io.g
 
 ### Register
 
-just use the method below:
-
 ```java
 ProtectorAPI.register(module);
 ```
@@ -25,8 +23,6 @@ ProtectorAPI.register(module);
 Implement `io.github.lijinhong11.protector.api.block.IBlockProtectionModule`&#x20;
 
 ### Register
-
-just use the method below:
 
 ```java
 ProtectorAPI.register(module);

@@ -12,7 +12,7 @@ IProtectionModule module = ProtectorAPI.findModule(location);
 
 ## Block Protection Module
 
-The plugin corresponding to a block protection module is generally a plugin that only has protective properties for blocks (however, Lands is an exception)
+The plugin corresponding to a block protection module is generally a plugin that only has protective properties for blocks (however, Lands, ExcellentClaims and HuskClaims are exceptions)
 
 ### Get by block location and player
 

@@ -1,8 +1,8 @@
-# Register your flags
+# Register flags
 
 ## Description
 
-Since v1.0.5, you now can register your flag.
+Since v1.0.5, you now can register flags.
 
 ## How-To
 
