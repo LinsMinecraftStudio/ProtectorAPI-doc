@@ -19,7 +19,7 @@ IProtectionModule module = ProtectorAPI.findModule(location);
 
 ## 方块保护模块
 
-方块保护模块对应的插件通常仅具备方块保护功能（但Lands、ExcellentClaims是例外）
+方块保护模块对应的插件通常仅具备方块保护功能（但Lands、ExcellentClaims和HuskClaims是例外）
 
 ### 通过方块位置和玩家获取
 

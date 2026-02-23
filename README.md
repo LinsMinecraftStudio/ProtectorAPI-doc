@@ -23,4 +23,4 @@ ProtectorAPI 是一个对接了几乎所有保护插件的API的API。
 
 #### 对于开发者
 
-请参阅 [Setup](develop/setup.md)
+请参阅 [setup.md](develop/setup.md "mention")
