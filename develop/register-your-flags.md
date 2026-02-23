@@ -4,17 +4,17 @@ metaLinks:
     - https://app.gitbook.com/s/vLjgle6jl104vuDDoA0T/develop/register-your-flags
 ---
 
-# Register your flags
+# 注册标志
 
-## Description
+## 描述
 
-Since v1.0.5, you now can register your flag.
+自 v1.0.5, 你可以注册一个标志
 
-## How-To
+## 怎么做
 
-To register your flag, you need to create a `CustomFlag` object first.
+为了注册标志，你需要先创建一个 `CustomFlag` 实例
 
-The structure of `CustomFlag` will be shown below:
+`CustomFlag` 的类结构:
 
 ```java
 package io.github.lijinhong11.protector.api.flag;
@@ -34,7 +34,7 @@ public record CustomFlag(@NotNull String namespace, @NotNull String id, boolean 
 }
 ```
 
-After creating the custom flag object, you can register it.
+创建实例后，你可以按照以下方法注册：
 
 ```java
 CustomFlag flag = ...;

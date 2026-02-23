@@ -9,13 +9,13 @@ metaLinks:
 
 ## 描述
 
-A block protection module can only check the blocks' protection.
+一个方块保护模块仅可以检查对一个方块的保护情况
 
-It can check whether a player can break/place/interact the block
+它可以检查玩家是否可以  破坏/放置/交互 该位置的方块
 
-## Check a player can break/place/interact the block
+## 检查玩家是否可以 破坏/放置/交互 该位置的方块
 
-Example:
+示例:
 
 ```java
 Location location = ...;
@@ -26,26 +26,22 @@ if (module == null) {
     return;
 }
 
-//check it is being protected
 if (!module.isProtected(player, location)) {
     return;
 }
 
-//break
-boolean b = module.allowBreak(player, location);
+boolean break = module.allowBreak(player, location);
 
-//place
-boolean b = module.allowPlace(player, location);
+boolean place = module.allowPlace(player, location);
 
-//interact
-boolean b = module.allowInteract(player, location);
+boolean interact = module.allowInteract(player, location);
 ```
 
-## Register flags
+## 注册标志
 
-Since v1.0.9, some block protection modules can register flags.
+自 v1.0.9，有些方块保护模块可以注册标志
 
-Example:
+示例:
 
 ```java
 IBlockProtectionModule module = ...;

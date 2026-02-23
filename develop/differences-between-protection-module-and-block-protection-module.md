@@ -5,23 +5,23 @@ metaLinks:
       https://app.gitbook.com/s/vLjgle6jl104vuDDoA0T/develop/differences-between-protection-module-and-block-protection-module
 ---
 
-# Differences between Protection Module & Block Protection Module
+# 保护模块与方块保护模块之间的不同
 
-## Protection Module
+## 保护模块
 
-A protection module corresponds to a fully functional plugin that can serve as the primary protection plugin in the server.
+保护模块对应于一个功能完整的插件，可在服务器中充当主要保护插件
 
-### Get by block location
+### 通过方块位置获取
 
 ```java
 IProtectionModule module = ProtectorAPI.findModule(location);
 ```
 
-## Block Protection Module
+## 方块保护模块
 
-The plugin corresponding to a block protection module is generally a plugin that only has protective properties for blocks (however, Lands is an exception)
+方块保护模块对应的插件通常仅具备方块保护功能（但Lands、ExcellentClaims是例外）
 
-### Get by block location and player
+### 通过方块位置和玩家获取
 
 ```java
 IBlockProtectionModule module = ProtectorAPI.findBlockModule(player, location);
