@@ -12,27 +12,28 @@ metaLinks:
 1. Residence
 2. Dominion
 3. HuskClaims (自 v1.0.3)
-4. PlotSquared
-5. WorldGuard
-6. RedProtect
-7. BentoBox
-8. BlockLocker
-9. Bolt
-10. ChestProtection
-11. ChestShop (自 v1.0.2)
-12. ExcellentClaims (自 v1.1.0)
-13. FactionsUUID (自 v1.0.3)
-14. FunnyGuilds (自 v1.0.3)
-15. GriefPrevention (自 v1.0.6)
-16. HuskTowns (自 v1.0.6)
-17. Lands
-18. LockettePro (自 v1.0.1)
-19. LWC (LWCX)
-20. NoBuildPlus (自 v1.0.7)
-21. QuickShop-Reremake
-22. QuickShop-Hikari
-23. ShopChest
-24. Towny
+4. IridiumSkyblock (自 v2.0.0)
+5. PlotSquared
+6. WorldGuard
+7. RedProtect
+8. BentoBox
+9. BlockLocker
+10. Bolt
+11. ChestProtection
+12. ChestShop (自 v1.0.2)
+13. ExcellentClaims (自 v1.1.0)
+14. FactionsUUID (自 v1.0.3)
+15. FunnyGuilds (自 v1.0.3)
+16. GriefPrevention (自 v1.0.6)
+17. HuskTowns (自 v1.0.6)
+18. Lands
+19. LockettePro (自 v1.0.1)
+20. LWC (LWCX)
+21. NoBuildPlus (自 v1.0.7)
+22. QuickShop-Reremake
+23. QuickShop-Hikari
+24. ShopChest
+25. Towny
 
 ## 不支持的插件
 
