@@ -61,6 +61,8 @@ boolean allow = ProtectorAPI.allowInteract(player, block);
 
 ## Check a event was fired by Protection Plugin is fake
 
+<mark style="color:red;">**Note: v2.0.0 removed this**</mark>
+
 ```java
 Event event = ...;
 boolean fake = ProtectorAPI.isEventFake(event);
