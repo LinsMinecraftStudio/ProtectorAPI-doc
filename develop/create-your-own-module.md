@@ -23,7 +23,7 @@ metaLinks:
 ProtectorAPI.register(module);
 ```
 
-## Block Protection Module
+## 方块保护模块
 
 ### 步骤
 

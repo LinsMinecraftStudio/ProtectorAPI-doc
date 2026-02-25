@@ -67,6 +67,8 @@ boolean allow = ProtectorAPI.allowInteract(player, block);
 
 ## 检查由保护插件发出的事件是否为假事件
 
+<mark style="color:red;">**注意：v2.0.0已移除**</mark>
+
 ```java
 Event event = ...;
 boolean fake = ProtectorAPI.isEventFake(event);
