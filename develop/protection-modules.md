@@ -84,7 +84,7 @@ if (!supported) {
     return;
 }
 
-IFlagState<?> value = module.getGlobalFlag("break", "worldName");
+FlagState<?> value = module.getGlobalFlag("break", "worldName");
 boolean allowBreak = (boolean) value.getValue();
 
 module.setGlobalFlag("break", "worldName", true);

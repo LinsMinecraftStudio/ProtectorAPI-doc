@@ -18,7 +18,7 @@ metaLinks:
 3. **获取成员**
 4. **获取所有者**
 
-## Get it by location
+## 通过位置获取
 
 ```java
 Location location = ...;
@@ -28,6 +28,6 @@ if (module == null) {
     return;
 }
 
-ProtectionRangeInfo range = module.getProtectionRangeInfo(location);
+IProtectionRangeInfo range = module.getProtectionRangeInfo(location);
 ```
 

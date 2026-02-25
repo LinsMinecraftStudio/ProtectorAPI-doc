@@ -35,6 +35,8 @@ Gradle (Kotlin DSL):
 implementation("io.github.lijinhong11:protectorapi-api:VERSION")
 ```
 
+**将里面的** `VERSION` **改为最新版本**
+
 **注意:** <mark style="color:red;">**无论如何，请不要将其打包进你的插件里！**</mark>
 
 第二步: 放心使用 :)
