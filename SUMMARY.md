@@ -10,7 +10,7 @@
 * [设置](develop/setup.md)
 * [简单用法](develop/simple-usage.md)
 * [保护模块](develop/protection-modules.md)
-* [保护范围信息](develop/protection-range-info.md)
+* [保护范围](develop/protection-range.md)
 * [方块保护模块](develop/block-protection-modules.md)
 * [保护模块与方块保护模块之间的不同](develop/differences-between-protection-module-and-block-protection-module.md)
 * [创建属于你自己的模块](develop/create-your-own-module.md)

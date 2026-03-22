@@ -47,7 +47,7 @@ Collection<IProtectionModule> modules = ProtectorAPI.getAllAvailableProtectionMo
 
 ## 获取一个保护范围
 
-参阅 [Protection Range Info](protection-range-info.md)&#x20;
+参阅 [Protection Range Info](protection-range.md)&#x20;
 
 ## 检查 玩家/位置 是否在一个保护范围内
 

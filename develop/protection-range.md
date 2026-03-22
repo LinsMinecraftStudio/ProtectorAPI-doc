@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/vLjgle6jl104vuDDoA0T/develop/protection-range-info
 ---
 
-# 保护范围信息
+# 保护范围
 
 ## 描述
 
@@ -28,6 +28,6 @@ if (module == null) {
     return;
 }
 
-IProtectionRangeInfo range = module.getProtectionRangeInfo(location);
+IProtectionRange range = module.getProtectionRangeInfo(location);
 ```
 
