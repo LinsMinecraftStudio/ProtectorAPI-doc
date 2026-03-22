@@ -41,7 +41,7 @@ Collection<IProtectionModule> modules = ProtectorAPI.getAllAvailableProtectionMo
 
 ## Get a protection range
 
-See [Protection Range Info](protection-range-info.md) for details.&#x20;
+See [Protection Range Info](protection-range.md) for details.&#x20;
 
 ## Check a player/location is in any protection range
 

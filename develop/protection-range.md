@@ -1,8 +1,8 @@
-# Protection Range Info
+# Protection Range
 
 ## Description
 
-**A ProtectionRangeInfo is the information of the protection range.**
+**A `IProtectionRange` is the information of the protection range.**
 
 **What can it do?**
 
@@ -21,6 +21,6 @@ if (module == null) {
     return;
 }
 
-IProtectionRangeInfo range = module.getProtectionRangeInfo(location);
+IProtectionRange range = module.getProtectionRangeInfo(location);
 ```
 
