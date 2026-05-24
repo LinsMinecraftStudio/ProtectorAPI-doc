@@ -17,23 +17,24 @@ metaLinks:
 6. WorldGuard
 7. RedProtect
 8. BentoBox
-9. BlockLocker
-10. Bolt
-11. ChestProtection
-12. ChestShop (自 v1.0.2)
-13. ExcellentClaims (自 v1.1.0)
-14. FactionsUUID (自 v1.0.3)
-15. FunnyGuilds (自 v1.0.3)
-16. GriefPrevention (自 v1.0.6)
-17. HuskTowns (自 v1.0.6)
-18. Lands
-19. LockettePro (自 v1.0.1)
-20. LWC (LWCX)
-21. NoBuildPlus (自 v1.0.7)
-22. QuickShop-Reremake
-23. QuickShop-Hikari
-24. ShopChest
-25. Towny
+9. GriefDefender (自 v2.2.1)
+10. BlockLocker
+11. Bolt
+12. ChestProtection
+13. ChestShop (自 v1.0.2)
+14. ExcellentClaims (自 v1.1.0)
+15. FactionsUUID (自 v1.0.3)
+16. FunnyGuilds (自 v1.0.3)
+17. GriefPrevention (自 v1.0.6)
+18. HuskTowns (自 v1.0.6)
+19. Lands
+20. LockettePro (自 v1.0.1)
+21. LWC (LWCX)
+22. NoBuildPlus (自 v1.0.7)
+23. QuickShop-Reremake
+24. QuickShop-Hikari
+25. ShopChest
+26. Towny
 
 ## 不支持的插件
 
