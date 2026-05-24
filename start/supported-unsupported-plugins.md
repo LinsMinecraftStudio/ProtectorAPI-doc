@@ -10,23 +10,24 @@
 6. WorldGuard
 7. RedProtect
 8. BentoBox
-9. BlockLocker
-10. Bolt
-11. ChestProtection
-12. ChestShop (since v1.0.2)
-13. ExcellentClaims (since v1.1.0)
-14. FactionsUUID (since v1.0.3)
-15. FunnyGuilds (since v1.0.3)
-16. GriefPrevention (since v1.0.6)
-17. HuskTowns (since v1.0.6)
-18. Lands
-19. LockettePro (since v1.0.1)
-20. LWC (LWCX)
-21. NoBuildPlus (since v1.0.7)
-22. QuickShop-Reremake
-23. QuickShop-Hikari
-24. ShopChest
-25. Towny
+9. GriefDefender (since v2.2.1)
+10. BlockLocker
+11. Bolt
+12. ChestProtection
+13. ChestShop (since v1.0.2)
+14. ExcellentClaims (since v1.1.0)
+15. FactionsUUID (since v1.0.3)
+16. FunnyGuilds (since v1.0.3)
+17. GriefPrevention (since v1.0.6)
+18. HuskTowns (since v1.0.6)
+19. Lands
+20. LockettePro (since v1.0.1)
+21. LWC (LWCX)
+22. NoBuildPlus (since v1.0.7)
+23. QuickShop-Reremake
+24. QuickShop-Hikari
+25. ShopChest
+26. Towny
 
 ## Unsupported Plugins
 
