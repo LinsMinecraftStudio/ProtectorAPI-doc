@@ -20,7 +20,7 @@ if (module == null) {
 }
 
 //check it is being protected
-if (!module.isProtected(player, location)) {
+if (!module.isProtected(location)) {
     return;
 }
 

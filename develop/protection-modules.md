@@ -45,6 +45,8 @@ See [Protection Range Info](protection-range.md) for details.&#x20;
 
 ## Check a player/location is in any protection range
 
+**Note: Some plugins don't support get protection ranges using player.**
+
 ```java
 Location location = ...;
 Player p = ...;

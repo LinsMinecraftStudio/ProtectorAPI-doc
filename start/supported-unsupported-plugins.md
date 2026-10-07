@@ -20,14 +20,15 @@
 16. FunnyGuilds (since v1.0.3)
 17. GriefPrevention (since v1.0.6)
 18. HuskTowns (since v1.0.6)
-19. Lands
-20. LockettePro (since v1.0.1)
-21. LWC (LWCX)
-22. NoBuildPlus (since v1.0.7)
-23. QuickShop-Reremake
-24. QuickShop-Hikari
-25. ShopChest
-26. Towny
+19. LandClaimPlugin (since v2.4.0)
+20. Lands
+21. LockettePro (since v1.0.1)
+22. LWC (LWCX)
+23. NoBuildPlus (since v1.0.7)
+24. QuickShop-Reremake
+25. QuickShop-Hikari
+26. ShopChest
+27. Towny
 
 ## Unsupported Plugins
 
