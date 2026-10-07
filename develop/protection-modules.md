@@ -51,6 +51,8 @@ Collection<IProtectionModule> modules = ProtectorAPI.getAllAvailableProtectionMo
 
 ## 检查 玩家/位置 是否在一个保护范围内
 
+**注：部分插件不支持通过Player获取保护范围**
+
 ```java
 Location location = ...;
 Player p = ...;

@@ -65,13 +65,4 @@ Block block = ...;
 boolean allow = ProtectorAPI.allowInteract(player, block);
 ```
 
-## 检查由保护插件发出的事件是否为假事件
-
-<mark style="color:red;">**注意：v2.0.0已移除**</mark>
-
-```java
-Event event = ...;
-boolean fake = ProtectorAPI.isEventFake(event);
-```
-
 [^1]: RedProtect中的redstone标志是允许/禁止玩家与红石系统交互。_按钮和拉杆都有他们自己的标志。_

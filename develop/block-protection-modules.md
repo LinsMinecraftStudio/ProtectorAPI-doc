@@ -26,7 +26,7 @@ if (module == null) {
     return;
 }
 
-if (!module.isProtected(player, location)) {
+if (!module.isProtected(location)) {
     return;
 }
 
