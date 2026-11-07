@@ -25,7 +25,7 @@
 21. LockettePro (since v1.0.1)
 22. LWC (LWCX)
 23. NoBuildPlus (since v1.0.7)
-24. QuickShop-Reremake
+24. QuickShop-Reremake (ended at v2.4.1)
 25. QuickShop-Hikari
 26. ShopChest
 27. Towny
