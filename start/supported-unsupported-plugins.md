@@ -31,7 +31,7 @@ metaLinks:
 20. LockettePro (自 v1.0.1)
 21. LWC (LWCX)
 22. NoBuildPlus (自 v1.0.7)
-23. QuickShop-Reremake
+23. QuickShop-Reremake (支持到v2.4.1)
 24. QuickShop-Hikari
 25. ShopChest
 26. Towny
